@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=espinosasalvador" alt="espinosasalvador" /></a> </p>
 
-- 🔭 I’m currently working on [Salvador-Code-Quiz](https://github.com/EspinosaSalvador/Salvador-Code-Quiz)
+- 🔭 I’m currently working on [Salvador-JavaScript-Quiz](https://github.com/EspinosaSalvador/Salvador-JavaScript-Quiz)
 
 - 🌱 I’m currently learning **MySql**
 
-- 👯 I’m looking to collaborate **any project to make my name grow in this area please reach me to my email that is below :).**
+- 👯 I’m looking to collaborate in **any project to make my name grow in this area please reach me to my email that is below :).**
 
-- 🤝 I’m looking for help with **(will update in a the future)**
+- 🤝 I’m looking for help with **Debugging**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EspinosaSalvador?tab=repositories](https://github.com/EspinosaSalvador?tab=repositories)
 
